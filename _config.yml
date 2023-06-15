@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Svenja Ryan"
-description              : &description "personal description"
+description              : &description "Research Associated at the Woods Hole Oceanographic Institution"
 url                      : https://sryan288.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "@SvenjaRyan"
 facebook:
   username               :
   app_id                 :
