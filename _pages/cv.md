@@ -19,4 +19,4 @@ Bremerhaven, Germany - 2018
 
 Full CV
 ======
-You can download my full CV [here](./files/CV_Ryan_Jan2025_public.pdf)
+You can download my full CV [here](../files/CV_Ryan_Jan2025_public.pdf)
