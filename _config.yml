@@ -22,8 +22,8 @@ repository               : "sryan288/sryan288.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_photo.jpg"
-  name             : "Svenja Ryane"
+  avatar           : "./profile_photo.jpg"
+  name             : "Svenja Ryan"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Assistant Scientist (tenure-track)"
   location         : "Woods Hole, MA, USA"
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-9427-2127"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
