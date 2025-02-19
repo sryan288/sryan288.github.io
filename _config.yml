@@ -25,9 +25,9 @@ author:
   avatar           : "profile_photo.jpg"
   name             : "Svenja Ryan"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Assistant Scientist (tenure-track)"
+  bio              : "Assistant Scientist (tenure-track) at the Woods Hole Oceanographic Institution"
   location         : "Woods Hole, MA, USA"
-  employer         : "Woods Hole Oceanographic Institution"
+  employer         : ""
   uri              : # URL
   email            : "sryan@whoi.edu" 
 
